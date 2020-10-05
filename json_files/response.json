@@ -1,0 +1,2580 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Books",
+  "last_updated": "2020-10-02T16:09:05-04:00",
+  "num_results": 34,
+  "results": [
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "With His New Mystery Novel, John Banville Kills Off a Pen Name",
+      "abstract": "\u201cSnow\u201d would normally have been published under the pseudonym Benjamin Black, but Banville says he doesn\u2019t need that \u201crascal\u201d anymore.",
+      "url": "https://www.nytimes.com/2020/10/01/books/john-banville-snow-benjamin-black.html",
+      "uri": "nyt://article/ee1789d1-54a0-5ffc-ae04-7ed8d463678f",
+      "byline": "By Charles McGrath",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T03:02:30-04:00",
+      "created_date": "2020-10-01T05:00:20-04:00",
+      "published_date": "2020-10-01T05:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Snow (Book)",
+        "Writing and Writers",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Banville, John",
+        "Black, Benjamin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/books/00Banville1/00Banville1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Banville in Howth, a seaside village in the suburbs of Dublin.",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/books/00Banville1/00Banville1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Banville in Howth, a seaside village in the suburbs of Dublin.",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/books/00Banville1/00Banville1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Banville in Howth, a seaside village in the suburbs of Dublin.",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/books/00Banville1/00Banville1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Banville in Howth, a seaside village in the suburbs of Dublin.",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/books/00Banville1/00Banville1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Banville in Howth, a seaside village in the suburbs of Dublin.",
+          "copyright": "Paulo Nunes dos Santos for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HC8xsn"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "How \u2018Rage\u2019 Challenged Bob Woodward",
+      "abstract": "He has covered nine presidents over 50 years, making him perhaps the country\u2019s most enduring chronicler of the Oval Office. His latest is yet another best seller, drawing praise and criticism along the way.",
+      "url": "https://www.nytimes.com/2020/09/30/books/bob-woodward-rage-donald-trump.html",
+      "uri": "nyt://article/a38d2d90-da03-5002-a776-0e34b16ee013",
+      "byline": "By Elizabeth A. Harris",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T15:04:28-04:00",
+      "created_date": "2020-09-30T05:00:18-04:00",
+      "published_date": "2020-09-30T05:00:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "United States Politics and Government",
+        "News and News Media",
+        "Coronavirus (2019-nCoV)",
+        "Rage (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Woodward, Bob",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/books/00Woodward1/merlin_177468516_1db1a398-1135-4d36-bdd3-813501c29a24-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1637,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhat Trump has done, particularly on the virus \u2014 I have lots of emotions and reporter\u2019s conclusions about it, but I\u2019m embarrassed for him. I am embarrassed for the country,\u201d Bob Woodward said.",
+          "copyright": "Jared Soares for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/books/00Woodward1/00Woodward1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhat Trump has done, particularly on the virus \u2014 I have lots of emotions and reporter\u2019s conclusions about it, but I\u2019m embarrassed for him. I am embarrassed for the country,\u201d Bob Woodward said.",
+          "copyright": "Jared Soares for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/books/00Woodward1/00Woodward1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhat Trump has done, particularly on the virus \u2014 I have lots of emotions and reporter\u2019s conclusions about it, but I\u2019m embarrassed for him. I am embarrassed for the country,\u201d Bob Woodward said.",
+          "copyright": "Jared Soares for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/books/00Woodward1/00Woodward1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhat Trump has done, particularly on the virus \u2014 I have lots of emotions and reporter\u2019s conclusions about it, but I\u2019m embarrassed for him. I am embarrassed for the country,\u201d Bob Woodward said.",
+          "copyright": "Jared Soares for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/books/00Woodward1/merlin_177468516_1db1a398-1135-4d36-bdd3-813501c29a24-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWhat Trump has done, particularly on the virus \u2014 I have lots of emotions and reporter\u2019s conclusions about it, but I\u2019m embarrassed for him. I am embarrassed for the country,\u201d Bob Woodward said.",
+          "copyright": "Jared Soares for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "The First Photos of Enslaved People Raise Many Questions About the Ethics of Viewing",
+      "abstract": "\u201cTo Make Their Own Way in the World\u201d convenes a group of scholars of slavery, American history, memory, photography and science to tell a complex story.",
+      "url": "https://www.nytimes.com/2020/09/29/books/to-make-their-own-way-in-world-zealy-daguerreotypes.html",
+      "uri": "nyt://article/dd322a66-e584-57cc-9d9b-77a1d2984451",
+      "byline": "By Parul Sehgal",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T14:48:13-04:00",
+      "created_date": "2020-09-29T15:35:12-04:00",
+      "published_date": "2020-09-29T15:35:12-04:00",
+      "material_type_facet": "",
+      "kicker": "Critic\u2019s Notebook",
+      "des_facet": [
+        "Books and Literature",
+        "Photography",
+        "Black People",
+        "Slavery (Historical)",
+        "Archives and Records",
+        "To Make Their Own Way in the World: The Enduring Legacy of the Zealy Daguerreotype (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Barbash, Ilisa",
+        "Rogers, Molly (Editor)",
+        "Willis, Deborah (1982- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/books/29BOOKZEALY-NOTEBOOK1/29BOOKZEALY-NOTEBOOK1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1014,
+          "width": 742,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabrizio Amoroso/Aperture"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/books/29BOOKZEALY-NOTEBOOK1/29BOOKZEALY-NOTEBOOK1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabrizio Amoroso/Aperture"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/books/29BOOKZEALY-NOTEBOOK1/29BOOKZEALY-NOTEBOOK1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabrizio Amoroso/Aperture"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/books/29BOOKZEALY-NOTEBOOK1/29BOOKZEALY-NOTEBOOK1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabrizio Amoroso/Aperture"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/books/29BOOKZEALY-NOTEBOOK1/29BOOKZEALY-NOTEBOOK1-articleInline.jpg",
+          "format": "Normal",
+          "height": 260,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Fabrizio Amoroso/Aperture"
+        }
+      ],
+      "short_url": "https://nyti.ms/36eaiX7"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "17 New Books to Watch For in October",
+      "abstract": "New biographies shed light on Malcolm X, Sylvia Plath and the Beatles, plus the latest fiction from Tana French, Martin Amis, Sayaka Murata and more.",
+      "url": "https://www.nytimes.com/2020/09/24/books/october-2020-new-books.html",
+      "uri": "nyt://article/13d87afc-5fde-5327-8771-3abfeaf38c3a",
+      "byline": "By Joumana Khatib",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T07:20:47-04:00",
+      "created_date": "2020-09-24T05:00:26-04:00",
+      "published_date": "2020-09-24T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork (Book)",
+        "Black Sun: A Novel (Book)",
+        "The Cold Millions: A Novel (Book)",
+        "The Dead Are Arising: The Life of Malcolm X (Book)",
+        "Earthlings (Book)",
+        "Inside Story (Book)",
+        "Leave the World Behind: A Novel (Book)",
+        "Let Love Rule (Book)",
+        "Mad at the World: A Life of John Steinbeck (Book)",
+        "Memorial (Book)",
+        "Missionaries (Book)",
+        "150 Glimpses of the Beatles (Book)",
+        "Red Comet: The Short Life and Blazing Art of Sylvia Plath (Book)",
+        "The Searcher: A Novel (Book)",
+        "Ten Lessons for a Post-Pandemic World (Book)",
+        "War: How Conflict Shaped Us (Book)",
+        "The Zealot and the Emancipator: John Brown, Abraham Lincoln, and the Struggle for American Freedom (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wiedeman, Reeves",
+        "Roanhorse, Rebecca",
+        "Walter, Jess",
+        "Payne, Les",
+        "Payne, Tamara (1966- )",
+        "Murata, Sayaka",
+        "Takemori, Ginny Tapley",
+        "Amis, Martin",
+        "Alam, Rumaan",
+        "Kravitz, Lenny",
+        "Ritz, David",
+        "Souder, William",
+        "Washington, Bryan (Author)",
+        "Klay, Phil",
+        "Brown, Craig (1957- )",
+        "Clark, Heather (Author)",
+        "French, Tana",
+        "Zakaria, Fareed",
+        "MacMillan, Margaret O (1943- )",
+        "Brands, H W"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/00OCTOBERBOOKS-COMBO/00OCTOBERBOOKS-COMBO-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2RVhhvK"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Globetrotting",
+      "abstract": "Your sneak preview of books coming out in 2020 from around the world, updated each season.",
+      "url": "https://www.nytimes.com/interactive/2020/01/08/books/new-books-international.html",
+      "uri": "nyt://interactive/f91ad36a-9e5c-5e95-a210-37f1b797fdf3",
+      "byline": "By The New York Times, Gray Beltran, Rebecca Lieberman and Tammy Tarng",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-08T09:52:35-04:00",
+      "created_date": "2020-01-08T17:47:13-05:00",
+      "published_date": "2020-01-08T17:47:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Sanders, Bernard",
+        "Warren, Elizabeth",
+        "Harris, Kamala D",
+        "Yang, Andrew (1975- )",
+        "Booker, Cory A",
+        "Biden, Joseph R Jr",
+        "Klobuchar, Amy",
+        "de Blasio, Bill",
+        "Bullock, Steve",
+        "Ryan, Timothy J (1973- )",
+        "Castro, Julian",
+        "Gabbard, Tulsi (1981- )"
+      ],
+      "geo_facet": [
+        "Iowa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/18/books/globetrotting-promo/globetrotting-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 633,
+          "width": 1250,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thoka Mayer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/18/books/globetrotting-promo/globetrotting-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thoka Mayer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/18/books/globetrotting-promo/globetrotting-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thoka Mayer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/18/books/globetrotting-promo/globetrotting-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thoka Mayer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/02/18/books/globetrotting-promo/globetrotting-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 96,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thoka Mayer"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ux8GXF"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Sometimes, the Funny Thing About Poetry Is the Poems",
+      "abstract": "Two debut collections, Sumita Chakraborty\u2019s \u201cArrow\u201d and Chessy Normile\u2019s \u201cGreat Exodus, Great Wall, Great Party,\u201d both show that humor can be a valuable weapon in a serious poet\u2019s arsenal.",
+      "url": "https://www.nytimes.com/2020/10/02/books/review/poetry-chessy-normile-great-exodus-great-wall-great-joke-sumita-chakraborty-arrow.html",
+      "uri": "nyt://article/395ec0aa-94df-5690-ba8e-0c8944dc473c",
+      "byline": "By Elisa Gabbert",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T15:40:35-04:00",
+      "created_date": "2020-10-02T14:35:50-04:00",
+      "published_date": "2020-10-02T14:35:50-04:00",
+      "material_type_facet": "",
+      "kicker": "On Poetry",
+      "des_facet": [
+        "Books and Literature",
+        "Poetry and Poets",
+        "Great Exodus, Great Wall, Great Party (Book)",
+        "Arrow (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Normile, Chessy",
+        "Chakraborty, Sumita"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/02Gabbert1/02Gabbert1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 691,
+          "width": 937,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Humor can be used as a defense mechanism, but it\u2019s also a reclamation of control \u2014 a refusal to be told how to feel about your own lived (and relived) experience.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/02Gabbert1/02Gabbert1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Humor can be used as a defense mechanism, but it\u2019s also a reclamation of control \u2014 a refusal to be told how to feel about your own lived (and relived) experience.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/02Gabbert1/02Gabbert1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Humor can be used as a defense mechanism, but it\u2019s also a reclamation of control \u2014 a refusal to be told how to feel about your own lived (and relived) experience.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/02Gabbert1/02Gabbert1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Humor can be used as a defense mechanism, but it\u2019s also a reclamation of control \u2014 a refusal to be told how to feel about your own lived (and relived) experience.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/02Gabbert1/02Gabbert1-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Humor can be used as a defense mechanism, but it\u2019s also a reclamation of control \u2014 a refusal to be told how to feel about your own lived (and relived) experience.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2Sjc1C6"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "What to Read Right Now",
+      "abstract": "Book recommendations from editors at the New York Times Book Review.",
+      "url": "https://www.nytimes.com/interactive/2020/09/01/books/what-to-read-promo.html",
+      "uri": "nyt://interactive/6feb89ad-3169-5067-91b1-bff21d6ce542",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-01T15:05:07-04:00",
+      "created_date": "2020-09-01T13:12:43-04:00",
+      "published_date": "2020-09-01T13:12:43-04:00",
+      "material_type_facet": "",
+      "kicker": "Recommendations",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/26/books/what-to-read-promo-1598979976650/what-to-read-promo-1598979976650-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 429,
+          "width": 650,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/26/books/what-to-read-promo-1598979976650/what-to-read-promo-1598979976650-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/26/books/what-to-read-promo-1598979976650/what-to-read-promo-1598979976650-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/26/books/what-to-read-promo-1598979976650/what-to-read-promo-1598979976650-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/05/26/books/what-to-read-promo-1598979976650/what-to-read-promo-1598979976650-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2ESmf9e"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Hari Kunzru on Writing \u2018Red Pill\u2019",
+      "abstract": "Kunzru talks about his new novel, and Ben Macintyre discusses \u201cAgent Sonya,\u201d his latest real-life tale of espionage.",
+      "url": "https://www.nytimes.com/2020/10/02/books/review/podcast-red-pill-hari-kunzru-agent-sonya-ben-macintyre.html",
+      "uri": "nyt://article/9a177cf0-108f-50f5-9307-d3ea52ec74c9",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T11:00:18-04:00",
+      "created_date": "2020-10-02T14:44:31-04:00",
+      "published_date": "2020-10-02T14:44:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/11/books/review/Gorra2/Gorra2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1402,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/11/books/review/Gorra2/Gorra2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/11/books/review/Gorra2/Gorra2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/11/books/review/Gorra2/Gorra2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/11/books/review/Gorra2/Gorra2-articleInline.jpg",
+          "format": "Normal",
+          "height": 278,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3cQyGPI"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Best-Seller Lists: Oct. 11, 2020",
+      "abstract": "All the lists: print, e-books, fiction, nonfiction, children\u2019s books and more.",
+      "url": "https://www.nytimes.com/interactive/2020/01/29/books/review/best-sellers-promo-for-front-copy2.html",
+      "uri": "nyt://interactive/5efd611c-6eaf-5b84-b55f-9befb88adc6c",
+      "byline": "",
+      "item_type": "Interactive",
+      "updated_date": "2020-10-02T09:15:48-04:00",
+      "created_date": "2015-12-11T20:41:38-05:00",
+      "published_date": "2015-12-11T20:41:38-05:00",
+      "material_type_facet": "",
+      "kicker": "Best Sellers",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/11/books/00-BestSeller-Logo-Image/00-BestSeller-Logo-Image-superJumbo.png",
+          "format": "superJumbo",
+          "height": 268,
+          "width": 268,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/11/books/00-BestSeller-Logo-Image/00-BestSeller-Logo-Image-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/11/books/00-BestSeller-Logo-Image/00-BestSeller-Logo-Image-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/11/books/00-BestSeller-Logo-Image/00-BestSeller-Logo-Image-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/11/books/00-BestSeller-Logo-Image/00-BestSeller-Logo-Image-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2RYH9Xc"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Lili Reinhart Is Just Being Honest",
+      "abstract": "The \u201cRiverdale\u201d star is reluctant to call herself an activist. But she has a lot to say and isn\u2019t afraid to do so.",
+      "url": "https://www.nytimes.com/2020/10/03/style/lili-reinhart-swimming-lessons-riverdale.html",
+      "uri": "nyt://article/650df144-0401-5299-9372-a75fee97c0ad",
+      "byline": "By Sanam Yar",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T10:50:54-04:00",
+      "created_date": "2020-10-03T05:00:05-04:00",
+      "published_date": "2020-10-03T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Actors and Actresses",
+        "Television",
+        "Poetry and Poets",
+        "Swimming Lessons (Book)",
+        "Social Media",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Reinhart, Lili"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/01REINHART2/merlin_176246820_976c92de-ed01-4ae6-8369-d4596d4ee683-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1671,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lindsay Ellary for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/01REINHART2/01REINHART2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lindsay Ellary for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/01REINHART2/01REINHART2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lindsay Ellary for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/01REINHART2/01REINHART2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lindsay Ellary for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/fashion/01REINHART2/merlin_176246820_976c92de-ed01-4ae6-8369-d4596d4ee683-articleInline.jpg",
+          "format": "Normal",
+          "height": 233,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lindsay Ellary for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/34jxdOe"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Derek Mahon, Popular Irish Poet, Is Dead at 78",
+      "abstract": "He wove together history, personal demons and quiet contemplation in works that could be dark but also spoke of renewal.",
+      "url": "https://www.nytimes.com/2020/10/02/books/derek-mahon-dead.html",
+      "uri": "nyt://article/3e2bae33-1c01-5fed-bd56-170d6e1d96b8",
+      "byline": "By Neil Genzlinger",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T10:15:20-04:00",
+      "created_date": "2020-10-02T18:25:40-04:00",
+      "published_date": "2020-10-02T18:25:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Poetry and Poets",
+        "Writing and Writers",
+        "Books and Literature",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Mahon, Derek"
+      ],
+      "geo_facet": [
+        "Ireland",
+        "Northern Ireland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Mahon-obit1/merlin_177966726_0f69974f-7190-4148-961b-01fc0e930b7d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1605,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Mahon in about 2006.",
+          "copyright": "Eamonn McCabe/Popperfoto, via Popperfoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Mahon-obit1/Mahon-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Mahon in about 2006.",
+          "copyright": "Eamonn McCabe/Popperfoto, via Popperfoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Mahon-obit1/Mahon-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Mahon in about 2006.",
+          "copyright": "Eamonn McCabe/Popperfoto, via Popperfoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Mahon-obit1/Mahon-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Mahon in about 2006.",
+          "copyright": "Eamonn McCabe/Popperfoto, via Popperfoto, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/obituaries/04Mahon-obit1/merlin_177966726_0f69974f-7190-4148-961b-01fc0e930b7d-articleInline.jpg",
+          "format": "Normal",
+          "height": 149,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Derek Mahon in about 2006.",
+          "copyright": "Eamonn McCabe/Popperfoto, via Popperfoto, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ncO2mx"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Terry Goodkind, Master of Fantasy Fiction, Is Dead at 72",
+      "abstract": "His epic series \u201cThe Sword of Truth\u201d spanned 17 books and sold more than 25 million copies worldwide. But his views angered some readers.",
+      "url": "https://www.nytimes.com/2020/10/02/books/terry-goodkind-dead.html",
+      "uri": "nyt://article/f885bf55-08e3-5623-a5ca-d2e39405d6f3",
+      "byline": "By Steven Kurutz",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T17:19:00-04:00",
+      "created_date": "2020-10-02T17:17:49-04:00",
+      "published_date": "2020-10-02T17:17:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Books and Literature",
+        "Writing and Writers",
+        "The Sword of Truth (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Goodkind, Terry (1948-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Goodkind1/merlin_177837669_773c2dd5-8159-406a-85fb-95f83ff342e5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Terry Goodkind at his home in Nevada in 2016. His fantasy novels were popular, one critic wrote, \u201cin part because, in a complicated world, he boils things down to stark contrasts.\u201d",
+          "copyright": "Rachel Aston/Las Vegas Review-Journal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Goodkind1/02Goodkind1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Terry Goodkind at his home in Nevada in 2016. His fantasy novels were popular, one critic wrote, \u201cin part because, in a complicated world, he boils things down to stark contrasts.\u201d",
+          "copyright": "Rachel Aston/Las Vegas Review-Journal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Goodkind1/02Goodkind1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Terry Goodkind at his home in Nevada in 2016. His fantasy novels were popular, one critic wrote, \u201cin part because, in a complicated world, he boils things down to stark contrasts.\u201d",
+          "copyright": "Rachel Aston/Las Vegas Review-Journal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Goodkind1/merlin_177837669_773c2dd5-8159-406a-85fb-95f83ff342e5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Terry Goodkind at his home in Nevada in 2016. His fantasy novels were popular, one critic wrote, \u201cin part because, in a complicated world, he boils things down to stark contrasts.\u201d",
+          "copyright": "Rachel Aston/Las Vegas Review-Journal"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/obituaries/02Goodkind1/merlin_177837669_773c2dd5-8159-406a-85fb-95f83ff342e5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author Terry Goodkind at his home in Nevada in 2016. His fantasy novels were popular, one critic wrote, \u201cin part because, in a complicated world, he boils things down to stark contrasts.\u201d",
+          "copyright": "Rachel Aston/Las Vegas Review-Journal"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jDEdMp"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Remembering a Father\u2019s Love of the Dystopian",
+      "abstract": "In the middle of a plague, a son thinks back to the way his father devoured any book that intimated disaster was near.",
+      "url": "https://www.nytimes.com/2020/10/02/books/remembering-a-fathers-love-of-the-dystopian.html",
+      "uri": "nyt://article/9d686b7c-098f-55d3-aad7-b9970ce685e9",
+      "byline": "By Joey Perr",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T16:23:22-04:00",
+      "created_date": "2020-10-02T16:20:21-04:00",
+      "published_date": "2020-10-02T16:20:21-04:00",
+      "material_type_facet": "",
+      "kicker": "Sketchbook",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04BackPage-PERR_finalfinalsub/04BackPage-PERR_finalfinalsub-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1914,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04BackPage-PERR_finalfinalsub/04BackPage-PERR_finalfinalsub-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04BackPage-PERR_finalfinalsub/04BackPage-PERR_finalfinalsub-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04BackPage-PERR_finalfinalsub/04BackPage-PERR_finalfinalsub-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04BackPage-PERR_finalfinalsub/04BackPage-PERR_finalfinalsub-articleInline.png",
+          "format": "Normal",
+          "height": 183,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3jpCfPj"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "Cat Bordhi, Who Challenged Traditional Ways of Knitting, Dies at 69",
+      "abstract": "Confounded by the complicated instructions that had become the standard, she thought up whimsical new techniques to create socks, scarves and other items.",
+      "url": "https://www.nytimes.com/2020/10/02/style/cat-bordhi-dead.html",
+      "uri": "nyt://article/8152632d-9f3e-53ed-b51c-5b5f22ac8665",
+      "byline": "By Katherine Rosman",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T09:28:27-04:00",
+      "created_date": "2020-10-02T16:17:42-04:00",
+      "published_date": "2020-10-02T16:17:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Knitting and Knit Goods",
+        "Wool and Woolen Goods",
+        "Socks",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bordhi, Cat (1951-2020)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1106,
+          "width": 737,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cat Bordhi on San Juan Island, Wash., in 2015. The\u00a0books she published about knitting earned her a devoted following.",
+          "copyright": "Jennifer Low"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/01Bordhi1/01Bordhi1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cat Bordhi on San Juan Island, Wash., in 2015. The\u00a0books she published about knitting earned her a devoted following.",
+          "copyright": "Jennifer Low"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/01Bordhi1/01Bordhi1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cat Bordhi on San Juan Island, Wash., in 2015. The\u00a0books she published about knitting earned her a devoted following.",
+          "copyright": "Jennifer Low"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/01Bordhi1/01Bordhi1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cat Bordhi on San Juan Island, Wash., in 2015. The\u00a0books she published about knitting earned her a devoted following.",
+          "copyright": "Jennifer Low"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cat Bordhi on San Juan Island, Wash., in 2015. The\u00a0books she published about knitting earned her a devoted following.",
+          "copyright": "Jennifer Low"
+        }
+      ],
+      "short_url": "https://nyti.ms/3d09YN6"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Revisiting George Smiley and the British Secret Service",
+      "abstract": "In 1974, Richard Locke reviewed \u201cTinker, Tailor, Soldier, Spy,\u201d John le Carr\u00e9\u2019s novel following a spymaster\u2019s pursuit to uncover a Soviet mole in the British secret service, for the Book Review.",
+      "url": "https://www.nytimes.com/2020/10/04/books/review/revisiting-george-smiley-and-the-british-secret-service.html",
+      "uri": "nyt://article/e4b21980-1ce8-5cb4-9286-17e221b447ae",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T16:16:07-04:00",
+      "created_date": "2020-10-02T16:05:25-04:00",
+      "published_date": "2020-10-02T16:05:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Tinker, Tailor, Soldier, Spy (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Le Carre, John"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04fromourarchives/merlin_177583659_d3908196-20ff-4d17-8127-15b3802a6eb4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1339,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John le Carr\u00e9, 1974.",
+          "copyright": "Andreas Heumann, via Knopf"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04fromourarchives/merlin_177583659_d3908196-20ff-4d17-8127-15b3802a6eb4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John le Carr\u00e9, 1974.",
+          "copyright": "Andreas Heumann, via Knopf"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04fromourarchives/merlin_177583659_d3908196-20ff-4d17-8127-15b3802a6eb4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John le Carr\u00e9, 1974.",
+          "copyright": "Andreas Heumann, via Knopf"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04fromourarchives/04fromourarchives-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John le Carr\u00e9, 1974.",
+          "copyright": "Andreas Heumann, via Knopf"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04fromourarchives/merlin_177583659_d3908196-20ff-4d17-8127-15b3802a6eb4-articleInline.jpg",
+          "format": "Normal",
+          "height": 291,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John le Carr\u00e9, 1974.",
+          "copyright": "Andreas Heumann, via Knopf"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Gq7bjX"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "New in Paperback: \u2018Running Home\u2019 and \u2018The Shadow King\u2019",
+      "abstract": "Six new paperbacks to check out this week.",
+      "url": "https://www.nytimes.com/2020/10/02/books/review/new-paperbacks.html",
+      "uri": "nyt://article/4bb75c0c-28ab-581a-93bb-07fba478ae34",
+      "byline": "By Jennifer Krauss",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T05:00:04-04:00",
+      "created_date": "2020-10-02T05:00:04-04:00",
+      "published_date": "2020-10-02T05:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "The World That We Knew: A Novel (Book)",
+        "The Scandal of the Century: And Other Writings (Book)",
+        "Running Home: A Memoir (Book)",
+        "The Shadow King (Book)",
+        "Flash Count Diary: Menopause and the Vindication of Natural Life (Book)",
+        "One Giant Leap: The Apollo 11 Moon Landing, 50 Years On (Play)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Hoffman, Alice",
+        "Garcia Marquez, Gabriel",
+        "Arnold, Katie (Author)",
+        "Mengiste, Maaza",
+        "Steinke, Darcey",
+        "Fishman, Charles"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/04PAPERROW-GRID/04PAPERROW-GRID-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1034,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/04PAPERROW-GRID/04PAPERROW-GRID-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/04PAPERROW-GRID/04PAPERROW-GRID-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/04PAPERROW-GRID/04PAPERROW-GRID-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/04PAPERROW-GRID/04PAPERROW-GRID-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3ndAbw4"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Trump and the Press and Other Letters to the Editor",
+      "abstract": "Readers respond to recent issues of the Sunday Book Review.",
+      "url": "https://www.nytimes.com/2020/10/02/books/review/trump-and-the-press-and-other-letters-to-the-editor.html",
+      "uri": "nyt://article/78b7fb70-9ef7-5bdb-9066-013a906acc46",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T05:00:04-04:00",
+      "created_date": "2020-10-02T05:00:04-04:00",
+      "published_date": "2020-10-02T05:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/books/review/20BackPage-JOHNSON-SUB01/20BackPage-JOHNSON-SUB01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1174,
+          "width": 1394,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sophie Lucido Johnson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/books/review/20BackPage-JOHNSON-SUB01/20BackPage-JOHNSON-SUB01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sophie Lucido Johnson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/books/review/20BackPage-JOHNSON-SUB01/20BackPage-JOHNSON-SUB01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sophie Lucido Johnson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/books/review/20BackPage-JOHNSON-SUB01/20BackPage-JOHNSON-SUB01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sophie Lucido Johnson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/books/review/20BackPage-JOHNSON-SUB01/20BackPage-JOHNSON-SUB01-articleInline.jpg",
+          "format": "Normal",
+          "height": 159,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sophie Lucido Johnson"
+        }
+      ],
+      "short_url": "https://nyti.ms/33kMz5y"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "10 New Books We Recommend This Week",
+      "abstract": "Suggested reading from critics and editors at The New York Times.",
+      "url": "https://www.nytimes.com/2020/10/01/books/review/10-new-books-we-recommend-this-week.html",
+      "uri": "nyt://article/d4118639-5b05-5946-8f21-73d0b1ed7b92",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T10:06:33-04:00",
+      "created_date": "2020-10-01T17:34:51-04:00",
+      "published_date": "2020-10-01T17:34:51-04:00",
+      "material_type_facet": "",
+      "kicker": "Editors\u2019 Choice",
+      "des_facet": [
+        "Books and Literature",
+        "Likes (Book)",
+        "Payback (Book)",
+        "Reaganland: America's Right Turn 1976-1980 (Book)",
+        "The Book of Unconformities: Speculations on Lost Time (Book)",
+        "The Boy in the Field: A Novel (Book)",
+        "The Man Who Ran Washington: The Life and Times of James A Baker III (Book)",
+        "The Unreality of Memory: And Other Essays (Book)",
+        "Wandering in Strange Lands: A Daughter of the Great Migration Reclaims Her Roots (Book)",
+        "Why I Don't Write: And Other Stories (Book)",
+        "Winter Counts: A Novel (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Baker, James A III",
+        "Baker, Peter",
+        "Bynum, Sarah Shun-lien",
+        "Gabbert, Elisa",
+        "Glasser, Susan",
+        "Gordon, Mary (1949- )",
+        "Jerkins, Morgan",
+        "Livesey, Margot",
+        "Minot, Susan",
+        "Perlstein, Rick",
+        "Raffles, Hugh",
+        "Reagan, Ronald Wilson",
+        "Weiden, David Heska Wanbli"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/books/01RecBooks/01RecBooks-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 523,
+          "width": 1054,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/books/01RecBooks/01RecBooks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/books/01RecBooks/01RecBooks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/books/01RecBooks/01RecBooks-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/books/01RecBooks/01RecBooks-articleInline.jpg",
+          "format": "Normal",
+          "height": 94,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/30nUmOa"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "How Bob Dylan Turned David Remnick on to Serious Reading",
+      "abstract": "\u201cHe\u2019d mention Allen Ginsberg and I\u2019d discover \u2018Howl\u2019 for a nickel at a secondhand sale. He\u2019d mention T.S. Eliot and I\u2019d discover \u2018The Waste Land.\u2019\u201d",
+      "url": "https://www.nytimes.com/2020/10/01/books/review/david-remnick-by-the-book-interview.html",
+      "uri": "nyt://article/e8abc43d-137d-5f60-a6ae-6c81414556ec",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T10:21:55-04:00",
+      "created_date": "2020-10-01T12:40:38-04:00",
+      "published_date": "2020-10-01T12:40:38-04:00",
+      "material_type_facet": "",
+      "kicker": "By the Book",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Remnick, David"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04ByTheBook/04ByTheBook-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 995,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04ByTheBook/04ByTheBook-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04ByTheBook/04ByTheBook-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04ByTheBook/04ByTheBook-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/books/review/04ByTheBook/04ByTheBook-articleInline.jpg",
+          "format": "Normal",
+          "height": 92,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jillian Tamaki"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SkjqkA"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The Feats and Failures of Jimmy Carter",
+      "abstract": "In a new biography, \u201cHis Very Best,\u201d Jonathan Alter offers an authoritative introduction to a president who has been largely neglected by biographers.",
+      "url": "https://www.nytimes.com/2020/10/01/books/review/his-very-best-jonathan-alter.html",
+      "uri": "nyt://article/05e96833-bffd-5f23-ba16-93c1ce2ed80c",
+      "byline": "By David Greenberg",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:35:14-04:00",
+      "created_date": "2020-10-01T12:13:45-04:00",
+      "published_date": "2020-10-01T12:13:45-04:00",
+      "material_type_facet": "",
+      "kicker": "Nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Presidential Election of 1980",
+        "His Very Best: Jimmy Carter, a Life (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Alter, Jonathan",
+        "Carter, Jimmy"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Greenberg/Greenberg-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1024,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vic DeLucia/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Greenberg/Greenberg-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vic DeLucia/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Greenberg/Greenberg-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vic DeLucia/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Greenberg/Greenberg-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vic DeLucia/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Greenberg/Greenberg-articleInline.jpg",
+          "format": "Normal",
+          "height": 95,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vic DeLucia/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3imZckZ"
+    },
+    {
+      "section": "dining",
+      "subsection": "drinks",
+      "title": "Jim Murray, a Top Whiskey Critic, Faces Accusations of Sexism",
+      "abstract": "Several distillers and retailers have severed ties to the British writer, after complaints surfaced about the treatment of women in his books and at events.",
+      "url": "https://www.nytimes.com/2020/10/01/dining/drinks/jim-murray-whisky-sexism.html",
+      "uri": "nyt://article/8e53b7b5-fbb6-5901-9faa-ef84fff4fe4a",
+      "byline": "By Clay Risen",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T12:41:11-04:00",
+      "created_date": "2020-10-01T05:00:24-04:00",
+      "published_date": "2020-10-01T05:00:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Whiskey",
+        "Jim Murray's Whisky Bible (Book)",
+        "Discrimination",
+        "Women and Girls",
+        "Books and Literature",
+        "Sexual Harassment"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Murray, Jim (1957- )",
+        "Paskin, Becky"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/merlin_177843276_e806d150-0fc9-47b3-b8ff-a210a11b5cdd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1435,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/00murray3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/lens/01murray3/merlin_177843276_e806d150-0fc9-47b3-b8ff-a210a11b5cdd-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Murray, who splits his time between England and Kentucky, is widely considered to be the most influential whisky critic in the world.",
+          "copyright": "Dram Good Books ltd."
+        }
+      ],
+      "short_url": "https://nyti.ms/2HMPEDi"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Shout Out to the Bodega Boys, From the Bronx to the Best-Seller List",
+      "abstract": "In \u201cGod-Level Knowledge Darts,\u201d Desus Nice & the Kid Mero deliver a \u201cfat sack of truth nuggets.\u201d",
+      "url": "https://www.nytimes.com/2020/10/01/books/review/shout-out-to-the-bodega-boys-from-the-bronx-to-the-best-seller-list.html",
+      "uri": "nyt://article/759aaa03-fc80-5260-8308-ca6099ceb7a7",
+      "byline": "By Lauren Christensen",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T09:33:43-04:00",
+      "created_date": "2020-10-01T05:00:05-04:00",
+      "published_date": "2020-10-01T05:00:05-04:00",
+      "material_type_facet": "",
+      "kicker": "Inside the List",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/11-InsideTheList-web/11-InsideTheList-web-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Desus Nice, left, and The Kid Mero in \u201cDesus &amp; Mero.\u201d",
+          "copyright": "Greg Endries/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/11-InsideTheList-web/11-InsideTheList-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Desus Nice, left, and The Kid Mero in \u201cDesus &amp; Mero.\u201d",
+          "copyright": "Greg Endries/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/11-InsideTheList-web/11-InsideTheList-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Desus Nice, left, and The Kid Mero in \u201cDesus &amp; Mero.\u201d",
+          "copyright": "Greg Endries/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/11-InsideTheList-web/11-InsideTheList-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Desus Nice, left, and The Kid Mero in \u201cDesus &amp; Mero.\u201d",
+          "copyright": "Greg Endries/Showtime"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/11-InsideTheList-web/11-InsideTheList-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Desus Nice, left, and The Kid Mero in \u201cDesus &amp; Mero.\u201d",
+          "copyright": "Greg Endries/Showtime"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HDKtFw"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Happy Banned Books Week",
+      "abstract": "Here\u2019s a look at some of history\u2019s most controversial novels and how they were covered in our pages.",
+      "url": "https://www.nytimes.com/interactive/2020/09/30/books/banned-books-week.html",
+      "uri": "nyt://interactive/f2f8055b-6338-5b27-befd-882c28825093",
+      "byline": "By Noor Qasim",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-30T15:01:48-04:00",
+      "created_date": "2020-09-30T13:39:02-04:00",
+      "published_date": "2020-09-30T13:39:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Censorship",
+        "The Satanic Verses (Book)",
+        "American Psycho (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Ellis, Bret Easton",
+        "Miller, Henry",
+        "Plath, Sylvia",
+        "Rushdie, Salman"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/banned-books-week-1601487400671/banned-books-week-1601487400671-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 667,
+          "width": 1000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/banned-books-week-1601487400671/banned-books-week-1601487400671-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/banned-books-week-1601487400671/banned-books-week-1601487400671-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/banned-books-week-1601487400671/banned-books-week-1601487400671-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/banned-books-week-1601487400671/banned-books-week-1601487400671-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/33gSNUf"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "Booker Prize Is Rescheduled to Make Way for Obama\u2019s Memoir",
+      "abstract": "During one busy week in November, the former president\u2019s new book is expected to come out, and top prizes from the Booker and the National Book Awards will be announced.",
+      "url": "https://www.nytimes.com/2020/09/29/books/booker-prize-barack-obama-promised-land.html",
+      "uri": "nyt://article/b1de225f-d18e-5216-b1b3-fa68b3125ec5",
+      "byline": "By Alexandra Alter",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T01:08:33-04:00",
+      "created_date": "2020-09-29T14:52:58-04:00",
+      "published_date": "2020-09-29T14:52:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "Man Booker Prize",
+        "Writing and Writers",
+        "National Book Awards",
+        "Book Trade and Publishing",
+        "A Promised Land (Book)",
+        "Awards, Decorations and Honors"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Obama, Barack"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/29booker/merlin_177215382_9baecc99-7676-499c-ab3b-536aafa8397d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1434,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Barack Obama&rsquo;s upcoming memoir, &ldquo;A Promised Land,&rdquo; is expected to be a best seller when it arrives on Nov. 17, the same day that the Booker Prize winner was previously scheduled to be announced.",
+          "copyright": "Lee Smith/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/29booker/merlin_177215382_9baecc99-7676-499c-ab3b-536aafa8397d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Barack Obama&rsquo;s upcoming memoir, &ldquo;A Promised Land,&rdquo; is expected to be a best seller when it arrives on Nov. 17, the same day that the Booker Prize winner was previously scheduled to be announced.",
+          "copyright": "Lee Smith/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/29booker/merlin_177215382_9baecc99-7676-499c-ab3b-536aafa8397d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Barack Obama&rsquo;s upcoming memoir, &ldquo;A Promised Land,&rdquo; is expected to be a best seller when it arrives on Nov. 17, the same day that the Booker Prize winner was previously scheduled to be announced.",
+          "copyright": "Lee Smith/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/29booker/merlin_177215382_9baecc99-7676-499c-ab3b-536aafa8397d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Barack Obama&rsquo;s upcoming memoir, &ldquo;A Promised Land,&rdquo; is expected to be a best seller when it arrives on Nov. 17, the same day that the Booker Prize winner was previously scheduled to be announced.",
+          "copyright": "Lee Smith/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/books/29booker/merlin_177215382_9baecc99-7676-499c-ab3b-536aafa8397d-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Barack Obama&rsquo;s upcoming memoir, &ldquo;A Promised Land,&rdquo; is expected to be a best seller when it arrives on Nov. 17, the same day that the Booker Prize winner was previously scheduled to be announced.",
+          "copyright": "Lee Smith/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/30e2915"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "New & Noteworthy, From Y.A. Dystopia to the Lives of Stoics",
+      "abstract": "A selection of recent titles of interest; plus, a peek at what our colleagues around the newsroom are reading.",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/new-this-week.html",
+      "uri": "nyt://article/0e8c19f2-f7b4-5b2e-bfc1-318c978948d0",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T02:22:22-04:00",
+      "created_date": "2020-09-29T14:32:31-04:00",
+      "published_date": "2020-09-29T14:32:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "A Wild Winter Swan: A Novel (Book)",
+        "Breasts and Eggs (Book)",
+        "Lives of the Stoics: The Art of Living from Zeno to Marcus Aurelius (Book)",
+        "Hush (Book)",
+        "A Series of Fortunate Events: Chance and the Making of the Planet, Life, and You (Book)",
+        "A Measure of Belonging: Twenty-One Writers of Color on the New American South (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carroll, Sean B",
+        "Holiday, Ryan (1987- )",
+        "Jensen, Toni (Author)",
+        "Kawakami, Mieko",
+        "Laymon, Kiese",
+        "Maguire, Gregory",
+        "Hanselman, Stephen",
+        "Barnes, Cinelle",
+        "Farrow, Malone (Dylan)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29NewNotes/29NewNotes-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 650,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29NewNotes/29NewNotes-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29NewNotes/29NewNotes-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29NewNotes/29NewNotes-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29NewNotes/29NewNotes-articleInline.jpg",
+          "format": "Normal",
+          "height": 96,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/30gMzSe"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "The New York Times Book Review: Back Issues",
+      "abstract": "Complete contents of the Book Review since 1997.",
+      "url": "https://www.nytimes.com/article/the-new-york-times-book-review-back-issues.html",
+      "uri": "nyt://article/e4269d1b-1785-524a-8dfb-097473706dd8",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T14:04:42-04:00",
+      "created_date": "2020-09-29T14:03:35-04:00",
+      "published_date": "2020-09-29T14:03:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2014/07/29/books/review/29backissues-sub/29backissues-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eliza Bolton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/07/29/books/review/29backissues-sub/29backissues-sub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 625,
+          "width": 625,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eliza Bolton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/07/29/books/review/29backissues-sub/29backissues-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eliza Bolton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/07/29/books/review/29backissues-sub/29backissues-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eliza Bolton"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/07/29/books/review/29backissues-sub/29backissues-sub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eliza Bolton"
+        }
+      ],
+      "short_url": "https://nyti.ms/36gCAQF"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "\u2018Abe: Abraham Lincoln in His Times,\u2019 by David S. Reynolds: An Excerpt",
+      "abstract": "An excerpt from \u201cAbe: Abraham Lincoln in His Times,\u201d by David S. Reynolds",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/abe-abraham-lincoln-in-his-times-by-david-s-reynolds-an-excerpt.html",
+      "uri": "nyt://article/c29d251c-9e97-5c2c-8f05-cb8671628aa6",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T13:13:24-04:00",
+      "created_date": "2020-09-29T13:13:24-04:00",
+      "published_date": "2020-09-29T13:13:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/30h5Hjd"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Searching for the Real Abraham Lincoln",
+      "abstract": "David S. Reynolds\u2019s \u201cAbe\u201d seeks to understand Lincoln by placing him in the context of his times.",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/abe-david-s-reynolds.html",
+      "uri": "nyt://article/3b1de70b-bf43-5b8f-8b23-faa7fbec3641",
+      "byline": "By Robert W. Merry",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T09:50:52-04:00",
+      "created_date": "2020-09-29T13:00:04-04:00",
+      "published_date": "2020-09-29T13:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "nonfiction",
+      "des_facet": [
+        "Books and Literature",
+        "Civil War (US) (1861-65)",
+        "Constitution (US)",
+        "Abe: Abraham Lincoln in His Times (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Brown, John (1800-59)",
+        "Lincoln, Abraham",
+        "Reynolds, David S"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/review/25Merry/merlin_12356165_fc7444e9-b400-4732-b899-7680ca512e47-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1800,
+          "width": 1522,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The melancholy Abraham Lincoln",
+          "copyright": "Library of Congress"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/review/25Merry/25Merry-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The melancholy Abraham Lincoln",
+          "copyright": "Library of Congress"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/review/25Merry/25Merry-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The melancholy Abraham Lincoln",
+          "copyright": "Library of Congress"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/review/25Merry/25Merry-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The melancholy Abraham Lincoln",
+          "copyright": "Library of Congress"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/books/review/25Merry/merlin_12356165_fc7444e9-b400-4732-b899-7680ca512e47-articleInline.jpg",
+          "format": "Normal",
+          "height": 225,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The melancholy Abraham Lincoln",
+          "copyright": "Library of Congress"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jfgiTb"
+    },
+    {
+      "section": "books",
+      "subsection": "",
+      "title": "4 Books that Explain the U.S. Tax System",
+      "abstract": "With The Times\u2019s recent investigation into President Trump\u2019s finances, you may have questions about how the tax system developed and how it really works.",
+      "url": "https://www.nytimes.com/interactive/2020/09/29/books/best-tax-system-books.html",
+      "uri": "nyt://interactive/64e741f6-98c3-5ed8-ba95-068c486dbcfb",
+      "byline": "By Noor Qasim and Joumana Khatib",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-29T11:51:01-04:00",
+      "created_date": "2020-09-29T11:28:09-04:00",
+      "published_date": "2020-09-29T11:28:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Johnston, David Cay",
+        "Taub, Jennifer S",
+        "Wallace, David Foster",
+        "Weisman, Steven R"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29books-bursttax/29books-bursttax-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 667,
+          "width": 1000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29books-bursttax/29books-bursttax-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29books-bursttax/29books-bursttax-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29books-bursttax/29books-bursttax-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/books/29books-bursttax/29books-bursttax-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "."
+        }
+      ],
+      "short_url": "https://nyti.ms/3jj4CPe"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "\u2018The End of the Day,\u2019 by Bill Clegg: An Excerpt",
+      "abstract": "An excerpt from \u201cThe End of the Day,\u201d by Bill Clegg",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/the-end-of-the-day-by-bill-clegg-an-excerpt.html",
+      "uri": "nyt://article/4f70ac34-bc9d-548f-bac9-778127d50ae1",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T08:46:00-04:00",
+      "created_date": "2020-09-29T08:46:00-04:00",
+      "published_date": "2020-09-29T08:46:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/2GmLsJv"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "\u2018The Midnight Library,\u2019 by Matt Haig: An Excerpt",
+      "abstract": "An excerpt from \u201cThe Midnight Library,\u201d by Matt Haig",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/the-midnight-library-by-matt-haig-an-excerpt.html",
+      "uri": "nyt://article/ce7684b9-1f10-574f-ae3e-0411c998dfa7",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T08:40:07-04:00",
+      "created_date": "2020-09-29T08:40:07-04:00",
+      "published_date": "2020-09-29T08:40:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/3cECNye"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "5 Books to Take a Deep Dive Into Design",
+      "abstract": "Reading about specialized objects and imagined worlds can give comfort at a time like this.",
+      "url": "https://www.nytimes.com/2020/09/29/style/5-books-to-take-a-deep-dive-into-design.html",
+      "uri": "nyt://article/d84c93f8-2ab0-549c-a49a-b6af9447d9a9",
+      "byline": "By Eve M. Kahn",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T11:37:21-04:00",
+      "created_date": "2020-09-29T05:00:32-04:00",
+      "published_date": "2020-09-29T05:00:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Architecture",
+        "Books and Literature",
+        "Design"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-books7/01sp-books7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1517,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rheinbad-Breite bathing pier in Basel, Switzerland, from \u201cThe Architecture of Bathing: Body, Landscape, Art.\u201d",
+          "copyright": "Christie Pearson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-books7/01sp-books7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rheinbad-Breite bathing pier in Basel, Switzerland, from \u201cThe Architecture of Bathing: Body, Landscape, Art.\u201d",
+          "copyright": "Christie Pearson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-books7/01sp-books7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rheinbad-Breite bathing pier in Basel, Switzerland, from \u201cThe Architecture of Bathing: Body, Landscape, Art.\u201d",
+          "copyright": "Christie Pearson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-books7/01sp-books7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rheinbad-Breite bathing pier in Basel, Switzerland, from \u201cThe Architecture of Bathing: Body, Landscape, Art.\u201d",
+          "copyright": "Christie Pearson"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-books7/01sp-books7-articleInline.jpg",
+          "format": "Normal",
+          "height": 257,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rheinbad-Breite bathing pier in Basel, Switzerland, from \u201cThe Architecture of Bathing: Body, Landscape, Art.\u201d",
+          "copyright": "Christie Pearson"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "When Life Looks Like a Wes Anderson Movie",
+      "abstract": "An Instagram platform, now a book, documents real-life settings that look like frames from the director\u2019s movies.",
+      "url": "https://www.nytimes.com/2020/09/29/movies/wes-anderson-design-buildings.html",
+      "uri": "nyt://article/f269f073-7550-5b21-afd0-7246f13ac537",
+      "byline": "By Alexandra Lange",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T09:24:32-04:00",
+      "created_date": "2020-09-29T05:00:31-04:00",
+      "published_date": "2020-09-29T05:00:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Photography",
+        "Book Trade and Publishing"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Anderson, Wes"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-anderson7/merlin_176725119_67d397c8-13ff-4150-af39-e7ffa3fe95f4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1434,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the images in the book &ldquo;Accidentally Wes Anderson&rdquo; is this view of Roberts Cottages in Oceanside, Calif.",
+          "copyright": "Paul Fuentes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-anderson7/01sp-anderson7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the images in the book &ldquo;Accidentally Wes Anderson&rdquo; is this view of Roberts Cottages in Oceanside, Calif.",
+          "copyright": "Paul Fuentes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-anderson7/01sp-anderson7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the images in the book &ldquo;Accidentally Wes Anderson&rdquo; is this view of Roberts Cottages in Oceanside, Calif.",
+          "copyright": "Paul Fuentes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-anderson7/01sp-anderson7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the images in the book &ldquo;Accidentally Wes Anderson&rdquo; is this view of Roberts Cottages in Oceanside, Calif.",
+          "copyright": "Paul Fuentes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/style/01sp-anderson7/merlin_176725119_67d397c8-13ff-4150-af39-e7ffa3fe95f4-articleInline.jpg",
+          "format": "Normal",
+          "height": 271,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Among the images in the book &ldquo;Accidentally Wes Anderson&rdquo; is this view of Roberts Cottages in Oceanside, Calif.",
+          "copyright": "Paul Fuentes"
+        }
+      ],
+      "short_url": "https://nyti.ms/348YNNP"
+    },
+    {
+      "section": "books",
+      "subsection": "review",
+      "title": "Marilynne Robinson\u2019s New Book Explores Love in Segregated America",
+      "abstract": "In \u201cJack,\u201d the fourth volume in Robinson\u2019s Gilead series, an interracial romance faces perils in a Jim Crow city.",
+      "url": "https://www.nytimes.com/2020/09/29/books/review/marilynne-robinson-jack.html",
+      "uri": "nyt://article/6403a780-7de3-5240-8f7d-3ca89e3cc4bd",
+      "byline": "By Elaine Showalter",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T05:00:10-04:00",
+      "created_date": "2020-09-29T05:00:10-04:00",
+      "published_date": "2020-09-29T05:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "Fiction",
+      "des_facet": [
+        "Books and Literature",
+        "Jack: A Novel (Book)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Robinson, Marilynne"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Showalter1/Showalter1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 648,
+          "width": 432,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marilynne Robinson",
+          "copyright": "Alec Soth/Magnum Photos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Showalter1/Showalter1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marilynne Robinson",
+          "copyright": "Alec Soth/Magnum Photos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Showalter1/Showalter1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marilynne Robinson",
+          "copyright": "Alec Soth/Magnum Photos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Showalter1/Showalter1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marilynne Robinson",
+          "copyright": "Alec Soth/Magnum Photos"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/books/review/Showalter1/Showalter1-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Marilynne Robinson",
+          "copyright": "Alec Soth/Magnum Photos"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}
